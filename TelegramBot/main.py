@@ -8,7 +8,7 @@ import numpy as np
 import cv2
 import telebot
 
-TOKEN = "968239867:AAGAY5gAqPIHSz850ljCyDlrgnJLShZUsbo"
+TOKEN = "123:abc"
 started = 0
 start_messages = [
     "Howdy!",
